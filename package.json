@@ -58,10 +58,8 @@
     "sharp": "^0.33.5",
     "socket.io": "^4.8.1",
     "swagger-ui-express": "^5.0.1",
-    "tesseract.js": "^6.0.1"
-  },
-  "devDependencies": {
-    "@eslint/eslintrc": "^3.2.0",
+    "tesseract.js": "^6.0.1",
+        "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.18.0",
     "@nestjs/schematics": "^11.0.0",
     "@nestjs/testing": "^11.0.1",
@@ -87,6 +85,9 @@
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.7.3",
     "typescript-eslint": "^8.20.0"
+  },
+  "devDependencies": {
+
   },
   "jest": {
     "moduleFileExtensions": [
